@@ -6,541 +6,541 @@
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP 1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP 2" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
 
 #EXTINF:-1 group-title="TV" tvg-id="SIC" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
 
 #https://live.impresa.pt/live/sic/sic.m3u8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rr.cdnlab.vodafone.pt/shls_VTV_LIVE/LIVE$11/index.m3u8?start=LIVE&end=END&device=HLS_TMP_TST
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rr.cdnlab.vodafone.pt/shls_VTV_LIVE/LIVE$11/index.m3u8?start=LIVE&end=END&device=HLS_TMP_TST
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjIgMTA6MTc6NDUgUE0maGFzaF92YWx1ZT1JbHhZK0w5TVJQZUFXNkhMYUxmTE5nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGVjMWExZGYtMTU0ZS00MzY2LThlM2EtNjZlMmFjZjk1MmZj/
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjIgMTA6MTc6NDUgUE0maGFzaF92YWx1ZT1JbHhZK0w5TVJQZUFXNkhMYUxmTE5nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGVjMWExZGYtMTU0ZS00MzY2LThlM2EtNjZlMmFjZjk1MmZj/
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP 3" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
 
 #EXTINF:-1 group-title="TV" tvg-id="SIC NOTICIAS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
 
 #https://live.impresa.pt/live/sicnot/sicnot.m3u8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rr.cdnlab.vodafone.pt/shls_VTV_LIVE/LIVE$13/index.m3u8?start=LIVE&end=END&device=HLS_TMP_TST
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rr.cdnlab.vodafone.pt/shls_VTV_LIVE/LIVE$13/index.m3u8?start=LIVE&end=END&device=HLS_TMP_TST
 
 #EXTINF:-1 group-title="TV" tvg-id="CNN-PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjIgMTA6MTc6NDYgUE0maGFzaF92YWx1ZT04UkYxN1paMjdwY3lDeGhRTTlaVllnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDY0ZDEwMTUtNzMwMC00Y2QyLThjYzQtZWUwNjcyOWY1ZGU3/
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjIgMTA6MTc6NDYgUE0maGFzaF92YWx1ZT04UkYxN1paMjdwY3lDeGhRTTlaVllnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDY0ZDEwMTUtNzMwMC00Y2QyLThjYzQtZWUwNjcyOWY1ZGU3/
 
 #EXTINF:-1 group-title="TV" tvg-id="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (PT)
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ARTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP MEMÓRIA" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP AÇORES" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP MADEIRA" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png",RTP Madeira
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP ÁFRICA" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",RTP África
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP-INT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png",RTP Internacional
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
 
 #EXTINF:-1 group-title="TV" tvg-id="SIC-INT" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/SIC-Internacional.png",SIC Internacional
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://live.impresa.pt/live/sicint/sicint.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI-INT" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjIgMTA6MTc6NDYgUE0maGFzaF92YWx1ZT1JbkpadHNmM0xxd2hCSW80NG4vTjd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTlmM2Y2NTctYjVkZS00ZTU0LThkMDktMDJhZTMwZWU5MjJl/
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjIgMTA6MTc6NDYgUE0maGFzaF92YWx1ZT1JbkpadHNmM0xxd2hCSW80NG4vTjd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTlmM2Y2NTctYjVkZS00ZTU0LThkMDktMDJhZTMwZWU5MjJl/
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI Ficção" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI Reality" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="PORTO CANAL" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg",Fama TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://streamer-b02.videos.sapo.pt/live/famatv/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://streamer-b02.videos.sapo.pt/live/famatv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CANAL 11" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-11.png",Canal 11
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="MyTime Movie Network" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png",MyTime Movie Network (BR)
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="MovieSphere" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/MovieSphere.jpg",MovieSphere
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://moviesphere-plex.amagi.tv/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://moviesphere-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Love Nature TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Love-Nature-TV.png",Love Nature TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://bamus-eng-roku.amagi.tv/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porta-dos-Fundos.jpg",Porta dos Fundos
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede710007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BraziTV.png",BraziTV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV-camara.png",TV Câmara
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://stream3.camara.gov.br/tv1/manifest.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Futura [Brazil]" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png",Canal Futura
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://tv.unisc.br/hls/test.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="AgroBrasil TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/AgroBrasil-TV.png",AgroBrasil TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="SBT [Brazil]" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SBT.png",SBT
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (PT)
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (CN)
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVM.png",TVM
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVMI.png",TVM Internacional
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://196.28.226.121:1935/live/smil:Channel2.smil/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://196.28.226.121:1935/live/smil:Channel2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/STV.jpg",STV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (EN)
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (ES)
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (IT)
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (FR)
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (DE)
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TeleSUR" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png",TeleSUR
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="HispanTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HispanTV.png",HispanTV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://live1.presstv.ir/live/hispan.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://live1.presstv.ir/live/hispan.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png",Press TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://live1.presstv.ir/live/presstv.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://live1.presstv.ir/live/presstv.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RT NEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",RT News
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="rt-america" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-America.png",RT America
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RT HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-UK.png",RT UK
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RT Español" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-Español.png",RT Español
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RT Francia HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-France.png",RT France
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="rt-documentary" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-Documentary.png",RT Documentary
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CGTN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN.png",CGTN
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://live.cgtn.com/1000/prog_index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CGTN Español" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Español.png",CGTN Español
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://livees.cgtn.com/1000e/prog_index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CGTNFrancais.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Français.png",CGTN Français
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://livefr.cgtn.com/1000f/prog_index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://livefr.cgtn.com/1000f/prog_index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CGTN-Documentary" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Documentary.png",CGTN Documentary
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://livedoc.cgtn.com/1000d/prog_index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="AL JAZEERA ENGLISH" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png",Al Jazeera English
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FR24I" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 English
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FR24I" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Español
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FR24I" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Français
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FR24I" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Arabic
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CNN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png",CNN
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ABC News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ABC-News.png",ABC News
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CBSN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CBSN.png",CBSN
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="NBC News Now" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png",NBC News Now
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Reuters TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Reuters-TV.png",Reuters TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="NASA TV Public" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NASA.png",NASA TV Public
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="NASA TV Media" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NASA.png",NASA TV Media
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="BloombergTVUS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Europe
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Brasil
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="BloombergTVUS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV US
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="NHK WORLD JAPAN HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NHK-World.png",NHK World
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DW English" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DW Espanol" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle Español
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DW Deutsch" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle Deutsch
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DW Deutsch" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle Deutsch+
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DW Deutsch" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle Arabic
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TV5 Monde" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV5-Monde-Info.png",TV5 Monde Info
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="BFM TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BFM-TV.png",BFM TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://bfmtvalive1-a.akamaihd.net/316e573c8855429887f65feb189fb5a7/eu-central-1/876450610001/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://bfmtvalive1-a.akamaihd.net/316e573c8855429887f65feb189fb5a7/eu-central-1/876450610001/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/7NN-Noticias.png",7NN Noticias
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVE 24H" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rtvelivestreamv3.akamaized.net/24h/24h_main.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rtvelivestreamv3.akamaized.net/24h/24h_main.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png",La 1
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="LA 2" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La2.png",La 2
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TV Galícia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png",TV Galícia
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ETB 1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-1.png",ETB 1
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ETB 2" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-2.png",ETB 2
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ETB Sat" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/EITB-EUS.png",EITB.EUS
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://live-dvr.eitb-fastly.cross-media.es/live-content/eitbbasque-hls/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://live-dvr.eitb-fastly.cross-media.es/live-content/eitbbasque-hls/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Canal Extremadura" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png",Canal Extremadura
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Sky TG24 HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-TG24.png",Sky TG24
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://skyanywhere3-i.akamaihd.net/hls/live/751544/tg24ta/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://skyanywhere3-i.akamaihd.net/hls/live/751544/tg24ta/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RaiNews24" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rai-News-24.png",Rai News 24
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Nick Clássico" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Nick-Clássico.jpg",Nick Clássico
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 group-title="TV" tvg-id="BabyFirst" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyFirst.png",BabyFirst
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 group-title="TV" tvg-id="Retrô Cartoon" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Retro-TV.png",Retrô Cartoon
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Locomotion.png",Locomotion
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cachipum-TV.png",Cachipum.TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Gulli.png",Gulli
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/On-FM.png",On FM Portugal
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rádio-Sines.png",Rádio Sines
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rádio-Clube-TV.jpg",Rádio Clube TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Trace Urban" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",Trace Urban
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="1HD Music" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/1HD.png",1HD Music
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NRG-91-TV.png",NRG 91 TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Deejay TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DeeJay-TV.png",DeeJay TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="4FUN.TV" tvg-id="4fun.pl" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/4Fun-TV.png",4Fun.TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-id="Sexy KPOP TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sexy-KPOP-TV.png",Sexy KPOP TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/FM-Italia-TV.png",FM Italia TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Colosal-TV.png",Colosal TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png",California Music Channel
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png",Country Music Channel
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png",Fuel TV 
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Red-Bull-TV.png",Red Bull TV 
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Abu Dhabi Sports" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Abu-Dhabi-Sports-1.png",Abu Dhabi Sports 1
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Abu Dhabi Sports 2" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Abu-Dhabi-Sports-2.png",Abu Dhabi Sports 2
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Abu Dhabi Sports 3" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Abu-Dhabi-Sports-3.png",Abu Dhabi Sports 3
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Abu Dhabi Sports 4" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Abu-Dhabi-Sports-4.png",Abu Dhabi Sports 4
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Yas TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Yas-TV.png",Yas TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Dubai Sports" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Sports.png",Dubai Sports
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Dubai Sports 2" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Sports-2.png",Dubai Sports 2
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Dubai Sports 3" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Sports-3.png",Dubai Sports 3
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Dubai Racing 1 HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Racing.png",Dubai Racing
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Racing.png",Dubai Racing 2
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fashion-TV.png",Fashion TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="hd-fashion" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HD-Fashion-&-Lifestyle-TV.png",HD Fashion & Lifestyle TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/World-Fashion-Channel.jpg",World Fashion Channel
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Gong TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/GONG.png",GONG
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://51.254.215.79/appflux/gong/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://51.254.215.79/appflux/gong/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Gong Max" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/GONG-Max.png",GONG Max
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://51.254.215.79/appflux/gongmax/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://51.254.215.79/appflux/gongmax/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Dubai One" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-One.png",Dubai One
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ICI Canal international HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ICI-Television.png",ICI Television
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Grand Lille TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Grand-Lille-TV.png",Grand Lille TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://str81.creacast.com/grandlilletv/high/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://str81.creacast.com/grandlilletv/high/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Grand-Littoral-TV.png",Grand Littoral TV
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Alsace 20" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Alsace-20.png",Alsace 20
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://alsace20.live-kd.com/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://alsace20.live-kd.com/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ARD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Das-Erste.png",Das Erste
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://mcdn.daserste.de/daserste/int/master.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://mcdn.daserste.de/daserste/int/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-1.png",Akaku TV 1
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-2.png",Akaku TV 2
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-3.png",Akaku TV 3
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
 
 # 📻 Main Portuguese radio stations
@@ -1136,16 +1136,16 @@ https://videos-cloudflare.jwpsrv.com/61ee3fd3_ca801c1789563f947f163e2ef2831c116f
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 5/2/2022
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://videos-fms.jwpsrv.com/0_61ff6bf4_0x9b79b0a73b5343994759f252a7c0535084855b52/content/conversions/i0kOV6po/videos/h3KYBtrB-34192116.mp4.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://videos-fms.jwpsrv.com/0_61ff6bf4_0x9b79b0a73b5343994759f252a7c0535084855b52/content/conversions/i0kOV6po/videos/h3KYBtrB-34192116.mp4.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 28/1/2022
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://videos-fms.jwpsrv.com/0_61ff6c6e_0xdfc5a43b3098239cd089fac2b0121a8fe978a489/content/conversions/i0kOV6po/videos/oPDxPqM8-34192116.mp4.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://videos-fms.jwpsrv.com/0_61ff6c6e_0xdfc5a43b3098239cd089fac2b0121a8fe978a489/content/conversions/i0kOV6po/videos/oPDxPqM8-34192116.mp4.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 22/1/2022
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://videos-cloudflare.jwpsrv.com/61ee3efa_cdb2a77ce1b988a71ab5db373d106ad40bd2e521/content/conversions/i0kOV6po/videos/0SAK67Yi-34192116.mp4.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://videos-cloudflare.jwpsrv.com/61ee3efa_cdb2a77ce1b988a71ab5db373d106ad40bd2e521/content/conversions/i0kOV6po/videos/0SAK67Yi-34192116.mp4.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 15/1/2022
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=5000;url=https://videos-fms.jwpsrv.com/0_61ee3f94_0x7e6bcd8a815d40a9416bf98f878c20b163768638/content/conversions/i0kOV6po/videos/QZNfYMnM-34192116.mp4.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;buffer=1000;url=https://videos-fms.jwpsrv.com/0_61ee3f94_0x7e6bcd8a815d40a9416bf98f878c20b163768638/content/conversions/i0kOV6po/videos/QZNfYMnM-34192116.mp4.m3u8
 
 
 # Documentários
