@@ -19,7 +19,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=https://rr.cdnlab.vodaf
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIyIDExOjE4OjEgUE0maGFzaF92YWx1ZT1oVXJJaW1XNzRBTEJUS3praGZDNHJ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NWIwNmQwNGItZGExNy00MmY2LWIwYTYtNmNmMjBmNDJlN2Jj/
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIyIDE6MTA6NTUgQU0maGFzaF92YWx1ZT1ZT2dOeEFVWHRQQXZRek1vdWxhUWVnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzQwNGRlNzEtMGI5ZC00Y2E5LWIxZDMtMzk5MWI5NGVjNDYw/
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP 3" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 
