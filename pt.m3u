@@ -6,7 +6,7 @@
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 
-plugin://plugin.video.f4mTester/?streamtype=HLS;buffer=5000;url=https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIyIDExOjE4OjQ2IFBNJmhhc2hfdmFsdWU9aVc5aVdiSml1Wkl4SzNJVTVieldIUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWU5YWRjZDk3LTk1MTktNDQyNi05OTlhLTljYzdkOTRjYTRiYQ==/
+plugin://plugin.video.f4mTester/?streamtype=HLS;url=https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIyIDExOjE4OjQ2IFBNJmhhc2hfdmFsdWU9aVc5aVdiSml1Wkl4SzNJVTVieldIUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWU5YWRjZDk3LTk1MTktNDQyNi05OTlhLTljYzdkOTRjYTRiYQ==/
 
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP 1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
