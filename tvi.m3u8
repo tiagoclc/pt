@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2220?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2220
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://145.239.7.22:8080/live/victor/victor/7027.m3u8?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://145.239.7.22:8080/live/victor/victor/7027.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/3948?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/3948
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://es-iptv.xyz:8080/cdiazip/8pCT8v6po9/62391?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://es-iptv.xyz:8080/cdiazip/8pCT8v6po9/62391
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3948?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3948
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png" group-title="General",TVI (480p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI 24
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://ch-media.site:8080/papa/papa12/190426?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI 24
