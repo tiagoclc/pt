@@ -1,64 +1,64 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2220
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2220?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://145.239.7.22:8080/live/victor/victor/7027.m3u8
+http://145.239.7.22:8080/live/victor/victor/7027.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/3948
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/3948?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://es-iptv.xyz:8080/cdiazip/8pCT8v6po9/62391
+http://es-iptv.xyz:8080/cdiazip/8pCT8v6po9/62391?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3948
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3948?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png" group-title="General",TVI (480p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
+https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI 24
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://ch-media.site:8080/papa/papa12/190426?checkedby:iptvcat.com
+http://ch-media.site:8080/papa/papa12/190426?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI 24
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3947?checkedby:iptvcat.com
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3947?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI 24
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/3947?checkedby:iptvcat.com
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/3947?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI 24 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://es-iptv.xyz:8080/cdiazip/8pCT8v6po9/62397?checkedby:iptvcat.com
+http://es-iptv.xyz:8080/cdiazip/8pCT8v6po9/62397?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI 24 Portugal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://thetvvalet.com:8080/simon/simon/60359?checkedby:iptvcat.com
+http://thetvvalet.com:8080/simon/simon/60359?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/16181?checkedby:iptvcat.com
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/16181?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/16181?checkedby:iptvcat.com
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/16181?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://es-iptv.xyz:8080/cdiazip/8pCT8v6po9/62393?checkedby:iptvcat.com
+http://es-iptv.xyz:8080/cdiazip/8pCT8v6po9/62393?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI FICCAO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://145.239.7.22:8080/live/victor/victor/7056.m3u8?checkedby:iptvcat.com
+http://145.239.7.22:8080/live/victor/victor/7056.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI FICCAO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://es-iptv.xyz:8080/cdiazip/8pCT8v6po9/62426?checkedby:iptvcat.com
+http://es-iptv.xyz:8080/cdiazip/8pCT8v6po9/62426?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI FICCAO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://es-iptv.xyz:8080/cdiazip/8pCT8v6po9/62427?checkedby:iptvcat.com
+http://es-iptv.xyz:8080/cdiazip/8pCT8v6po9/62427?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI FICÇAO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136631?checkedby:iptvcat.com
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136631?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI FICÇÃO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://145.239.7.22:8080/live/victor/victor/39447.m3u8?checkedby:iptvcat.com
+http://145.239.7.22:8080/live/victor/victor/39447.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI Fic
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://ch-media.site:8080/papa/papa12/190427?checkedby:iptvcat.com
+http://ch-media.site:8080/papa/papa12/190427?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI Fic
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1108?checkedby:iptvcat.com
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1108?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI Fic
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/16144?checkedby:iptvcat.com
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/16144?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI Fic
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/16144?checkedby:iptvcat.com
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/16144?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI Ficcao Portugal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://thetvvalet.com:8080/simon/simon/60360?checkedby:iptvcat.com
+http://thetvvalet.com:8080/simon/simon/60360?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/209530?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://ch-media.site:8080/papa/papa12/190428?checkedby:iptvcat.com
+http://ch-media.site:8080/papa/papa12/190428?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://es-iptv.xyz:8080/cdiazip/8pCT8v6po9/62392?checkedby:iptvcat.com
+http://es-iptv.xyz:8080/cdiazip/8pCT8v6po9/62392?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://145.239.7.22:8080/live/victor/victor/39437.m3u8?checkedby:iptvcat.com
+http://145.239.7.22:8080/live/victor/victor/39437.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI REALITY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136659?checkedby:iptvcat.com
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136659?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI REALITY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=http://ch-media.site:8080/papa/papa12/190429?checkedby:iptvcat.com
+http://ch-media.site:8080/papa/papa12/190429?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI REALITY
 http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3974?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI REALITY
